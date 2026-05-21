@@ -128,3 +128,4 @@ docker stop proxy-container && docker rm proxy-container
 
 - [Nginx Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
 - [Nginx proxy_pass documentation](https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_pass)
+- [Stack Overflow](https://stackoverflow.com/questions/71008651/use-nginx-as-reverse-proxy-for-a-docker-container)
